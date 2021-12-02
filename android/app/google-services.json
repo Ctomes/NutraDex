@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "467125983589",
+    "project_id": "nutra-dex",
+    "storage_bucket": "nutra-dex.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467125983589:android:0573ad0a6c035bc2f7298c",
+        "android_client_info": {
+          "package_name": "io.github.ctomes.nutradex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467125983589-h7ra1l963o5m4d2a2f0bd2apqsicduhc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGHoYLInwAVXQFqmvMg17SlBOdV9jrHL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467125983589-h7ra1l963o5m4d2a2f0bd2apqsicduhc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
